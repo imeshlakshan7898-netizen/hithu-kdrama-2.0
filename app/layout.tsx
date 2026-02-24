@@ -8,7 +8,12 @@ const _jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-je
 
 export const metadata: Metadata = {
   title: 'Hithu Kdrama 2.0 - Watch Dramas & Series Online',
-  description: 'Stream your favorite dramas and TV series with multiple servers and subtitle options. Watch and download episodes for free.',
+  description:
+    'Stream your favorite dramas and TV series with multiple servers and subtitle options. Watch and download episodes for free.',
+
+  verification: {
+    google: "-fCDhwjr7Zs77Kelhqkr9t7YmdtFDeqOu10Mp6HQwwA",
+  },
 }
 
 export const viewport: Viewport = {
@@ -22,7 +27,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${_inter.variable} ${_jetbrainsMono.variable} font-sans antialiased`}>{children}</body>
+      <body className={`${_inter.variable} ${_jetbrainsMono.variable} font-sans antialiased`}>
+        {children}
+      </body>
     </html>
   )
 }
