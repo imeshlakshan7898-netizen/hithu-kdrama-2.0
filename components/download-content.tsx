@@ -20,7 +20,7 @@ export function DownloadContent({ drama, episode }: DownloadContentProps) {
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
               <Film className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-lg font-bold text-foreground">CineSub</span>
+            <span className="text-lg font-bold text-foreground">Hithu Kdrama 2.0</span>
           </Link>
         </div>
       </header>

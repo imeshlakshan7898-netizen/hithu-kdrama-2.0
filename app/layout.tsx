@@ -7,7 +7,7 @@ const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const _jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-jetbrains-mono' })
 
 export const metadata: Metadata = {
-  title: 'Hithu Kdrama 2.0 - Watch Dramas & Series Online',
+  title: 'Hithu Kdrama  - Watch Dramas & Series Online',
   description:
     'Stream your favorite dramas and TV series with multiple servers and subtitle options. Watch and download episodes for free.',
 
