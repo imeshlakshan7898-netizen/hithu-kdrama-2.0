@@ -98,7 +98,7 @@ export default function HomePage() {
           </div>
           <p>© 2026 Hithu Kdrama.</p>
           <div className="flex gap-6">
-            <span className="cursor-pointer hover:text-foreground">Privacy</span>
+            <span className="cursor-pointer hover:text-foreground">Privacy</span>git add .
             <span className="cursor-pointer hover:text-foreground">Terms</span>
             <span className="cursor-pointer hover:text-foreground">Contact</span>
           </div>
