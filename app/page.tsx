@@ -94,7 +94,7 @@ export default function HomePage() {
             <div className="flex h-6 w-6 items-center justify-center rounded bg-primary">
               <Film className="h-3 w-3 text-primary-foreground" />
             </div>
-            <span className="font-semibold text-foreground">Hithu Kdrama 2.0</span>
+            <span className="font-semibold text-foreground">Hithu Kdrama </span>
           </div>
           <p>© 2026 Hithu Kdrama.</p>
           <div className="flex gap-6">
