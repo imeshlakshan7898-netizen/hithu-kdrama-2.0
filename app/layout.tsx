@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     'Stream your favorite dramas and TV series with multiple servers and subtitle options. Watch and download episodes for free.',
 
   verification: {
-    google: "-fCDhwjr7Zs77Kelhqkr9t7YmdtFDeqOu10Mp6HQwwA",
+    google: "TSrfO4EGKp6Fei8bIaxaBBQTdAv07ab3PlS2k5Gvhuc",
   },
 }
 
