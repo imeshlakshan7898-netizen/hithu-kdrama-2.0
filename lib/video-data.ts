@@ -1966,7 +1966,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   description:
   "",
   posterUrl: "https://i.ibb.co/DH2p6S7b/Xw-LQpf.jpg",
-  episodeCount: 9,
+  episodeCount: 29,
   featured: false,
   episodes: [
     {
@@ -2140,6 +2140,388 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       googleDriveUrl:
         "",
     },
+    {
+      number: 10,
+      title: "Episode 10",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document-6309832567331755427-1",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document-6309832567331755427-1",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+    {
+      number: 11,
+      title: "Episode 11",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6309832567331755428",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6309832567331755428",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+    {
+      number: 12,
+      title: "Episode 12",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6309832567331755429",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6309832567331755429",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+    {
+      number: 13,
+      title: "Episode 13",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771083",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771083",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+    {
+      number: 14,
+      title: "Episode 14",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6327781557784286912",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6327781557784286912",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 15,
+      title: "Episode 15",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771087",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771087",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 16,
+      title: "Episode 16",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771090",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6073600827656771090",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 17,
+      title: "Episode 17",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222766",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222766",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 18,
+      title: "Episode 18",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222767",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222767",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 19,
+      title: "Episode 19",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222768",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6082576020815222768",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 20,
+      title: "Episode 20",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6120945897133052322",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6120945897133052322",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 21,
+      title: "Episode 21",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6120602656231659808",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6120602656231659808",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 22,
+      title: "Episode 22",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6159069731954366033",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6159069731954366033",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 23,
+      title: "Episode 23",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/document_6181408024364586738",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/document_6181408024364586738",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 24,
+      title: "Episode 24",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/24_20260708",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/24_20260708",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 25,
+      title: "Episode 25",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/25_20260708_202607",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/25_20260708_202607",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 26,
+      title: "Episode 26",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/26_20260708_202607",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/26_20260708_202607",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 27,
+      title: "Episode 27",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/27_20260708_202607",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/27_20260708_202607",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 28,
+      title: "Episode 28",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/28_20260708_202607",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/28_20260708_202607",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     {
+      number: 29,
+      title: "Episode 29",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/29_20260708_202607",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/29_20260708_202607",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
+    },
+     
   ],  
 }
+  
 ]
