@@ -2114,12 +2114,12 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
         {
           name: "Server 2",
           embedUrl:
-            "https://archive.org/embed/snapsave-app_61556217696158_hd",
+            "https://drive.google.com/file/d/1mt9TIF782brkRHKS91Pw8aidT_Cfj_s-/preview",
         },
       ],
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl:
-        "",
+        "https://drive.google.com/file/d/1mt9TIF782brkRHKS91Pw8aidT_Cfj_s-/view?usp=sharing",
     },
   ],
 }
