@@ -2139,6 +2139,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl:
         "",
-  ],
+    },
+  ],  
 }
 ]
