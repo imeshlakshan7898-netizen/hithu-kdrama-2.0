@@ -1965,7 +1965,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   genre: ["Historical", "Romance", "Drama"],
   description:
   "",
-  posterUrl: "https://i.ibb.co/FLkYH1Y3/FDKF1-LSa-MAAl4-KP.jpg",
+  posterUrl: "https://i.ibb.co/BV5NkFnq/hiru-sandu-aadarei.jpg",
   episodeCount: 8,
   featured: false,
   episodes: [
