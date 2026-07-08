@@ -1965,7 +1965,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   genre: ["Historical", "Romance", "Drama"],
   description:
   "",
-  posterUrl: "https://ibb.co/0jRt5vsh",
+  posterUrl: "https://i.ibb.co/FLkYH1Y3/FDKF1-LSa-MAAl4-KP.jpg",
   episodeCount: 8,
   featured: false,
   episodes: [
