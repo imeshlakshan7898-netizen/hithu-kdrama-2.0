@@ -2109,17 +2109,17 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
         {
           name: "Server 1",
           embedUrl:
-            "https://archive.org/embed/snapsave-app_61556217696158_hd",
+            "https://archive.org/embed/aqna-yde-pt-9glv-al-2f-sa-cd-9wv-45fypugc-5mk-fa-t-8j-xc-p-6-tz-4yno-5v-ny-jfg-k",
         },
         {
           name: "Server 2",
           embedUrl:
-            "https://drive.google.com/file/d/1mt9TIF782brkRHKS91Pw8aidT_Cfj_s-/preview",
+            "https://archive.org/embed/aqna-yde-pt-9glv-al-2f-sa-cd-9wv-45fypugc-5mk-fa-t-8j-xc-p-6-tz-4yno-5v-ny-jfg-k",
         },
       ],
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl:
-        "https://drive.google.com/file/d/1mt9TIF782brkRHKS91Pw8aidT_Cfj_s-/view?usp=sharing",
+        "",
     },
   ],
 }
