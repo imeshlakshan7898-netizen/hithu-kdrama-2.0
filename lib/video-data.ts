@@ -1960,12 +1960,12 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
 },
 {
   id: "the-moon-embracing-the-sun",
-  title: "the moon embracing the sun",
+  title: "The Moon Embracing The Sun",
   year: 2012,
   genre: ["Historical", "Romance", "Drama"],
   description:
   "",
-  posterUrl: "https://i.ibb.co/FLkYH1Y3/FDKF1-LSa-MAAl4-KP.jpg",
+  posterUrl: "https://ibb.co/0jRt5vsh",
   episodeCount: 8,
   featured: false,
   episodes: [
