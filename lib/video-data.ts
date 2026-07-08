@@ -1966,7 +1966,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   description:
   "",
   posterUrl: "https://i.ibb.co/DH2p6S7b/Xw-LQpf.jpg",
-  episodeCount: 8,
+  episodeCount: 9,
   featured: false,
   episodes: [
     {
@@ -2121,6 +2121,24 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       googleDriveUrl:
         "",
     },
+    {
+      number: 9,
+      title: "Episode 8 ",
+      sources: [
+        {
+          name: "Server 1",
+          embedUrl:
+            "https://archive.org/embed/aqp-4-yh-kjdg-1-cz-y-9-swk-eth-qtui-3mmxl-kvbb-w-2-kty-9-pug-at-t-3-qjo-9b-d-0-w",
+        },
+        {
+          name: "Server 2",
+          embedUrl:
+            "https://archive.org/embed/aqp-4-yh-kjdg-1-cz-y-9-swk-eth-qtui-3mmxl-kvbb-w-2-kty-9-pug-at-t-3-qjo-9b-d-0-w",
+        },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl:
+        "",
   ],
 }
 ]
