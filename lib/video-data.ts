@@ -2576,6 +2576,28 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       googleDriveUrl: "",
     },
   ],
+},
+{
+  id: "perfect-crown",
+  title: "Perfect Crown",
+  year: 2026,
+  genre: ["Romance", "Comedy", "Drama"],
+  description:
+  "21වන සියවසේ ව්‍යවස්ථාදායක රාජාණ්ඩුවක් පසුබිම් කරගෙන, චෙබෝල් උරුමක්කාරියක් සහ මහා කුමාරයෙකු අතර ඇතිවන ගිවිසුම් විවාහයක් සැබෑ ආදරයකට හැරෙන අයුරු විස්තර කරන ජනප්‍රිය කොරියානු නාට්‍යයකි.",
+  posterUrl: "https://i.ibb.co/1tJWXgx2/e222b00fc9b946f89d57996a10e5f3bf0c848158481e05fdc107fddaf07d11e2.webp",
+  episodeCount: 12,
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://archive.org/embed/perfect.-crown.-s-01e-01.-x-265.720-p.-dsnp.-web-dl-aric-dramaday.-me" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/perfect.-crown.-s-01e-01.-x-265.720-p.-dsnp.-web-dl-aric-dramaday.-me" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "",
+    },
+  ],
 }
 
 ]
