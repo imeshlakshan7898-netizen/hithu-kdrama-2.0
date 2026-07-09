@@ -2526,7 +2526,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
 {
   id: "love-in-sync",
   title: "Love In Sync",
-  year: 2025,
+  year: 2026,
   genre: ["Romance", "Drama", "Youth"],
   description:
   "අහම්බෙන් මුණගැසෙන තරුණ දෙදෙනෙකුගේ සිත්ගන්නාසුලු ආදර කතාව, මිත්‍රත්වය සහ ජීවිතයේ අභියෝග අතර දිග හැරෙන සංවේදී කොරියානු නාට්‍යයකි",
@@ -2541,7 +2541,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
         { name: "Server 2", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-01.-x-264.720-p-mkvdrama.-net" },
       ],
       telegramUrl: "https://t.me/example_channel",
-      googleDriveUrl: "https://drive.google.com/file/d/goodboy1",
+      googleDriveUrl: "",
     },
     {
       number: 2,
@@ -2551,9 +2551,31 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
         { name: "Server 2", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-02.-x-264.720-p-mkvdrama.-net" },
       ],
       telegramUrl: "https://t.me/example_channel",
-      googleDriveUrl: "https://drive.google.com/file/d/goodboy2",
+      googleDriveUrl: "",
     },
   ],
-} 
-  
+},
+{
+  id: "boyfriend-on-demand",
+  title: "Boyfriend on Demand",
+  year: 2026,
+  genre: ["Romance", "Comedy", "Fantasy"],
+  description:
+  "ධික වැඩ බරින් වෙහෙසට පත් වෙබ්ටූන් නිෂ්පාදකවරියක් අතථ්‍ය (VR) ආදර සේවාවක් අත්හදා බැලීමෙන් පසු, ඇගේ සැබෑ ජීවිතය සහ අතථ්‍ය ආදර ලෝකය එකිනෙකට මිශ්‍ර වෙන්න පටන් ගනියි.",
+  posterUrl: "https://i.ibb.co/MkcpbTbB/51d10a98395fd79a4f9ea847b71a28179e515370ec9cea384c514d467e78bdf6.webp",
+  episodeCount: 10,
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://archive.org/embed/boyfriend.-on.-demand.-s-01e-01.-x-265.720-p.-nf.-web-dl-wadu-dramaday.-me1" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/boyfriend.-on.-demand.-s-01e-01.-x-265.720-p.-nf.-web-dl-wadu-dramaday.-me1" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "",
+    },
+  ],
+}
+
 ]
