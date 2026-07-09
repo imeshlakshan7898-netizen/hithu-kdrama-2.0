@@ -2520,8 +2520,40 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       googleDriveUrl:
         "",
     },
-     
+   
   ],  
-}
+},
+{
+  id: "love-in-sync",
+  title: "Love In Sync",
+  year: 2025,
+  genre: ["Romance", "Drama", "Youth"],
+  description:
+  "අහම්බෙන් මුණගැසෙන තරුණ දෙදෙනෙකුගේ සිත්ගන්නාසුලු ආදර කතාව, මිත්‍රත්වය සහ ජීවිතයේ අභියෝග අතර දිග හැරෙන සංවේදී කොරියානු නාට්‍යයකි",
+  posterUrl: "https://i.ibb.co/Q3TLzpCQ/a2d947f3e8c27618717bd6d33f30ec389c82d378f359bba62810d23824c0f5a1.webp",
+  episodeCount: 16,
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-01.-x-264.720-p-mkvdrama.-net" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-01.-x-264.720-p-mkvdrama.-net" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/goodboy1",
+    },
+    {
+      number: 2,
+      title: "Episode 2 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-02.-x-264.720-p-mkvdrama.-net" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/love.-in.-sync.-s-01e-02.-x-264.720-p-mkvdrama.-net" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/goodboy2",
+    },
+  ],
+} 
   
 ]
