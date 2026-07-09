@@ -2598,6 +2598,28 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       googleDriveUrl: "",
     },
   ],
+},
+{
+  id: "the-wonderfools",
+  title: "The Wonderfools",
+  year: 2026,
+  genre: ["Action", "Comedy", "Fantasy"],
+  description:
+  "1999 වසරේ සිදුවන මෙම කතාවේ, අහම්බෙන් අසාමාන්‍ය බලයන් ලැබෙන සාමාන්‍ය මිනිසුන් පිරිසක් තම නගරය තර්ජනය කරන දුෂ්ට බලවේගවලට එරෙහිව එකට සටන් කරන අයුරු විස්තර කෙරේ. හාස්‍යය, ක්‍රියාදාමය සහ අභිරහස එකට එකතු වූ Netflix කොරියානු නාට්‍යයකි.",
+  posterUrl: "https://i.ibb.co/zWnQ0Cnf/a5f91bd6b7a39a96959137448a3118bf1e821a745a388b462b1eff733c6c5650.webp",
+  episodeCount: 8,
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-m" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-m" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "",
+    },
+  ],
 }
 
 ]
