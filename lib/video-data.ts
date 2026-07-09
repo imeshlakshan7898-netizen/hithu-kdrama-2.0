@@ -2531,7 +2531,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   description:
   "අහම්බෙන් මුණගැසෙන තරුණ දෙදෙනෙකුගේ සිත්ගන්නාසුලු ආදර කතාව, මිත්‍රත්වය සහ ජීවිතයේ අභියෝග අතර දිග හැරෙන සංවේදී කොරියානු නාට්‍යයකි",
   posterUrl: "https://i.ibb.co/Q3TLzpCQ/a2d947f3e8c27618717bd6d33f30ec389c82d378f359bba62810d23824c0f5a1.webp",
-  episodeCount: 16,
+  episodeCount: 8,
   episodes: [
     {
       number: 1,
