@@ -2639,7 +2639,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
         { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview" },
       ],
       telegramUrl: "https://t.me/example_channel",
-      googleDriveUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview",
+      googleDriveUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/view?usp=sharing",
     },
   ],
 }
