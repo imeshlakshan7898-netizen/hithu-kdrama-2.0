@@ -23,7 +23,9 @@ export default function HomePage() {
   }, [])
 
   const filteredDramas = useMemo(() => {
-    return dramas.filter((d) => {
+  return [...dramas]
+    .reverse()
+    .filter((d) => {
       const matchesSearch = d.title.toLowerCase().includes(searchQuery.toLowerCase())
       const matchesGenre = activeGenre === null || d.genre.includes(activeGenre)
       return matchesSearch && matchesGenre
