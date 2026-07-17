@@ -38,6 +38,28 @@ export interface Drama {
 
 export const dramas: Drama[] = [
   {
+  id: "the-east-palace",
+  title: "The East Palace",
+  year: 2026,
+  genre: ["Action", "Horror", "Supernatural"],
+  description:
+  "description:අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
+  posterUrl: "https://i.ibb.co/jPBYnG1P/the-east-palace-poster-scaled-1-jpeg.jpg",
+  episodeCount: 8,
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview" },
+        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/view?usp=sharing",
+    },
+  ],
+},
+  {
     id: "vincenzo",
     title: "vincenzo ",
     year: 2021,
@@ -2621,27 +2643,6 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
     },
   ],
 },
-{
-  id: "the-east-palace",
-  title: "The East Palace",
-  year: 2026,
-  genre: ["Action", "Horror", "Supernatural"],
-  description:
-  "description:අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
-  posterUrl: "https://i.ibb.co/jPBYnG1P/the-east-palace-poster-scaled-1-jpeg.jpg",
-  episodeCount: 8,
-  episodes: [
-    {
-      number: 1,
-      title: "Episode 1 ",
-      sources: [
-        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview" },
-        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/preview" },
-      ],
-      telegramUrl: "https://t.me/example_channel",
-      googleDriveUrl: "https://drive.google.com/file/d/1G_Bb22cqkhngbTiwfICd3GOa3chZTyrh/view?usp=sharing",
-    },
-  ],
-}
+
 
 ]
