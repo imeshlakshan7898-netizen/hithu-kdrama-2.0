@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react"
 import { Film } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"
-import { FeaturedHero } from "@/components/featured-hero"
+//import { FeaturedHero } from "@/components/featured-hero" 
 import { VideoGrid } from "@/components/video-grid"
 import { VideoPlayer } from "@/components/video-player"
 import { GenreFilter } from "@/components/genre-filter"
@@ -35,7 +35,7 @@ export default function HomePage() {
   const handleSelectDrama = (drama: Drama) => {
     setSelectedDrama(drama)
     window.scrollTo({ top: 0, behavior: "smooth" })
-  }
+  } 
 
   const handleBack = () => {
     setSelectedDrama(null)
@@ -66,9 +66,7 @@ export default function HomePage() {
       <SiteHeader searchQuery={searchQuery} onSearchChange={setSearchQuery} />
       <main className="mx-auto max-w-7xl px-4 py-6 lg:px-8">
         <div className="flex flex-col gap-8">
-          {!searchQuery && !activeGenre && (
-            <FeaturedHero drama={featuredDrama} onSelect={handleSelectDrama} />
-          )}
+          
 
           <GenreFilter
             genres={allGenres}
