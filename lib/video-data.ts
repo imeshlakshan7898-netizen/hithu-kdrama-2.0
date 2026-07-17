@@ -47,7 +47,7 @@ export const dramas: Drama[] = [
 "ඉතාලියේ mafia lawyer කෙනෙකු ලෙස වැඩ කරන කොරියානු වංශයේ Vincenzo Cassano, සඟවා තිබූ රන් තොගයක් හේතුවෙන් දකුණු කොරියාවට ආපසු පැමිණේ. එහිදී ඔහු දුෂිත හා බලවත් Babel Group නම් සමාගමකට එරෙහිව නීතියෙන් සහ නීතියෙන් පිටතත් ක්‍රම භාවිතා කරමින් සටන් කරයි. විනෝදජනක dark comedy, ක්‍රියාදාම, නීතිමය බුද්ධිමත් සැලසුම් සහ සූක්ෂම පළිගැනීම් එකට මිශ්‍ර වූ මෙම කතාව, අසාමාන්‍ය මිතුරන් සමඟ එක්ව අධර්මයට එරෙහිව කරන සටනක් ගැන වේ.",
     posterUrl: "https://i.ibb.co/jP97T54k/MV5-BNj-A1-Ym-Ji-NTMt-MDc4-OC00-Zjlk-LTgy-Mjct-Yz-Rm-MWJh-Mm-Zh-Mjky-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
     episodeCount: 20,
-    featured: true,
+    featured: false,
     episodes: [
       {
         number: 1,
@@ -2631,6 +2631,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   "description:අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
   posterUrl: "https://i.ibb.co/jPBYnG1P/the-east-palace-poster-scaled-1-jpeg.jpg",
   episodeCount: 8,
+  featured: true,
   episodes: [
     {
       number: 1,
