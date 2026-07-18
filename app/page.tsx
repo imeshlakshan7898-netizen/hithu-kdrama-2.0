@@ -128,27 +128,12 @@ export default function HomePage() {
     ))}
   </div>
 </div>
-        </div>
-        <div className="mt-5 rounded-lg border border-blue-500/30 bg-blue-500/10 p-4 text-center">
-
-  
-
- 
-
-  <div className="mt-4 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+        
 
     
 
-    <a
-      href="https://wa.me/94778191814?text=Moderator%20Access"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="rounded-lg bg-green-600 px-5 py-2 text-sm font-medium text-white hover:bg-green-700"
-    >
-      💬 WhatsApp Message
-    </a>
-
-  </div>
+    
+  
 
 </div>
       </main>

@@ -2647,11 +2647,11 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       number: 2,
       title: "Episode 2 ",
       sources: [
-        { name: "Server 1", embedUrl: "" },
-        { name: "Server 2", embedUrl: "" },
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1l_cJkHYewm00YpFidgQdjJcnIkasEiN2/preview" },
+        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1l_cJkHYewm00YpFidgQdjJcnIkasEiN2/preview" },
       ],
       telegramUrl: "https://t.me/example_channel",
-      googleDriveUrl: "",
+      googleDriveUrl: "https://drive.google.com/file/d/1l_cJkHYewm00YpFidgQdjJcnIkasEiN2/view?usp=sharing",
     },
   ],
 }
