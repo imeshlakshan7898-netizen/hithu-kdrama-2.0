@@ -7,12 +7,18 @@ const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const _jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-jetbrains-mono' })
 
 export const metadata: Metadata = {
-  title: 'Hithu Kdrama  - Watch Dramas & Series Online',
+  title: 'Hithu Kdrama - Watch Dramas & Series Online',
   description:
     'Stream your favorite dramas and TV series with multiple servers and subtitle options. Watch and download episodes for free.',
 
+  icons: {
+    icon: 'https://i.ibb.co/hn3C1Br/Chat-GPT-Image-Jul-18-2026-12-10-44-PMhh.png',
+    shortcut: 'https://i.ibb.co/hn3C1Br/Chat-GPT-Image-Jul-18-2026-12-10-44-PMhh.png',
+    apple: 'https://i.ibb.co/hn3C1Br/Chat-GPT-Image-Jul-18-2026-12-10-44-PMhh.png',
+  },
+
   verification: {
-    google: "TSrfO4EGKp6Fei8bIaxaBBQTdAv07ab3PlS2k5Gvhuc",
+    google: 'TSrfO4EGKp6Fei8bIaxaBBQTdAv07ab3PlS2k5Gvhuc',
   },
 }
 
