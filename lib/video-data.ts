@@ -2614,8 +2614,8 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       number: 1,
       title: "Episode 1 ",
       sources: [
-        { name: "Server 1", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-m" },
-        { name: "Server 2", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-m" },
+        { name: "Server 1", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-me" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/the.-wonderfools.-s-01e-01.-x-265.720-p.-nf.-web-dl-marky-dramaday.-me" },
       ],
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl: "",
