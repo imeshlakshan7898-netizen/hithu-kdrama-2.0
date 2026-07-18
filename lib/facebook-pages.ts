@@ -2,7 +2,7 @@ export const facebookPages = [
   {
     name: "Hithu Kdrama",
     followers: "15K Followers",
-    image: "https://i.ibb.co/h1fzHWKv/Whats-App-Image-2026-07-18-at-9-17-26-AM-1.jpg",
+    image: "https://i.ibb.co/hn3C1Br/Chat-GPT-Image-Jul-18-2026-12-10-44-PMhh.png",
     url: "https://www.facebook.com/share/17vNLtqyVy/",
   },
   {
