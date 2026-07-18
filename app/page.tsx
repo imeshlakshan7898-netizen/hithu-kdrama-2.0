@@ -131,27 +131,13 @@ export default function HomePage() {
         </div>
         <div className="mt-5 rounded-lg border border-blue-500/30 bg-blue-500/10 p-4 text-center">
 
-  <p className="text-sm text-gray-300">
-    📢 <span className="font-semibold text-white">Facebook Package</span> භාවිතයෙන් නැරඹීමට,
-    පහත Facebook Group එකට Join වන්න.
-  </p>
+  
 
-  <p className="mt-2 text-xs text-gray-400">
-    Join වූ පසු <span className="font-medium text-white">Moderator අනුමැතිය</span> ලබාගැනිමට,
-    පහත WhatsApp අංකයට <span className="font-medium text-white">"Moderator Access"</span>
-    ලෙස පණිවිඩයක් යොමු කරන්න.
-  </p>
+ 
 
   <div className="mt-4 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
 
-    <a
-      href="https://web.facebook.com/share/g/1LntEf5NtJ/"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="rounded-lg bg-blue-600 px-5 py-2 text-sm font-medium text-white hover:bg-blue-700"
-    >
-      📘 Facebook Group එකට Join වන්න
-    </a>
+    
 
     <a
       href="https://wa.me/94778191814?text=Moderator%20Access"
