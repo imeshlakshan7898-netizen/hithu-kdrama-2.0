@@ -2653,6 +2653,16 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl: "https://drive.google.com/file/d/1l_cJkHYewm00YpFidgQdjJcnIkasEiN2/view?usp=sharing",
     },
+     {
+      number: 3,
+      title: "Episode 3 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1fxwpx95jWfa0FGaYR2uzj2IleMJzSHXh/preview" },
+        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1fxwpx95jWfa0FGaYR2uzj2IleMJzSHXh/preview" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/1fxwpx95jWfa0FGaYR2uzj2IleMJzSHXh/view?usp=sharing",
+    },
   ],
 }
 
