@@ -2621,7 +2621,7 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   id: "spooky-in-love",
   title: "Spooky in Love",
   year: 2026,
-  genre: ["comedy", "Horror", "Fantasy"],
+  genre: ["comedy", "Romance","Horror"],
   description:
   "රාත්‍රිය පුරාම අවතාර දකින හෝටල් උරුමක්කාරියක් වන Cheon Yeo Ri සහ නොවිසඳුණු ඝාතන නඩු හඹායන දක්ෂ නීතිඥ Ma Gang Wook අහඹු ලෙස හමුවෙයි. මියගිය අයගේ ආත්මයන්ගෙන් ලැබෙන ඉඟි ඔස්සේ ඔවුන් එකට අපරාධ රැසක් විමර්ශනය කරන අතර, අද්භූත සිදුවීම්, භයානක රහස් සහ මෘදු ආදර කතාවක් එකට බැඳෙන විශේෂ ගමනක් ආරම්භ වේ.",
   posterUrl: "https://i.ibb.co/B5MTkqmC/3eb27948b7f1afeb013c64ce1f1b5baa51010681addc962cc613a3b44e652f5b.webp",
@@ -2648,8 +2648,53 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
       telegramUrl: "https://t.me/example_channel",
       googleDriveUrl: "https://drive.google.com/file/d/1yWbAWtLZ9dvvUAY304OjQgmv7SfreHJb/view?usp=sharing",
     },
+   
  
   ],  
 },   
+{
+  id: "dream-to-you",
+  title: "Dream To You",
+  year: 2026,
+  genre: ["comedy", "Romance"],
+  description:
+  "Dream To You (2026) යනු ආදරය, හාස්‍යය, අද්භූත සිදුවීම් සහ රහස් එකට මුසු වූ කොරියානු නාට්‍යයකි. අසාමාන්‍ය හැකියාවක් ලැබෙන Cheon Yeo Ri සහ අභිරහස් නඩු විභාග කරන දක්ෂ නීතිඥවරයෙකු වන Ma Gang Wook මුණගැසීමෙන් අනපේක්ෂිත සිදුවීම් රැසක් ආරම්භ වේ. අද්භූත බලවේග, සැඟවුණු රහස් සහ ආදරය අතරින් සත්‍යය සොයා යන ඔවුන්ගේ ගමන අවසානය දක්වාම උනන්දුවෙන් නරඹන්නන් බැඳ තබයි.",
+  posterUrl: "https://i.ibb.co/XkLZ30z5/5b552fbbe8ef9f66be2a4756bc7ca077065bd5c87c2e213cd737b29c9efdb8ca.webp",
+  episodeCount: 12,
+  featured: true, 
+  episodes: [
+    {
+      number: 1,
+      title: "Episode 1 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1ItFYNVmH8sqngydpv7vyfMZSOxUtSndt/preview" },
+        { name: "Server 2", embedUrl: "https://archive.org/embed/dream.-to.-you.-s-01e-01.-tving.-x-264.720-p-mkvdrama.-net" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/1ItFYNVmH8sqngydpv7vyfMZSOxUtSndt/view?usp=sharing",
+    },
+     {
+      number: 2,
+      title: "Episode 2 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1RLHg5NogabewllfkH4rTCigI8lSuHX3G/preview" },
+        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1RLHg5NogabewllfkH4rTCigI8lSuHX3G/preview" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/1RLHg5NogabewllfkH4rTCigI8lSuHX3G/view?usp=sharing",
+    },
+   {
+      number: 3,
+      title: "Episode 3 ",
+      sources: [
+        { name: "Server 1", embedUrl: "https://drive.google.com/file/d/1RRbU67I34oB93BmiCMVr7zMKtjg_4iRm/preview" },
+        { name: "Server 2", embedUrl: "https://drive.google.com/file/d/1RRbU67I34oB93BmiCMVr7zMKtjg_4iRm/preview" },
+      ],
+      telegramUrl: "https://t.me/example_channel",
+      googleDriveUrl: "https://drive.google.com/file/d/1RRbU67I34oB93BmiCMVr7zMKtjg_4iRm/view?usp=sharing",
+    },
+ 
+  ],  
+}   
 
 ]
