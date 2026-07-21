@@ -2528,12 +2528,12 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   id: "the-east-palace",
   title: "The East Palace",
   year: 2026,
-  genre: ["Action", "Horror", "Supernatural"],
+  genre: ["comedy", "Horror", "Fantasy"],
   description:
-  "description:අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
+  "අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
   posterUrl: "https://i.ibb.co/jPBYnG1P/the-east-palace-poster-scaled-1-jpeg.jpg",
-  episodeCount: 8,
-  featured: true,
+  episodeCount: 12,
+  featured: false,
   episodes: [
     {
       number: 1,
@@ -2618,14 +2618,14 @@ googleDriveUrl:"https://drive.google.com/uc?export=download&id=1x3laWdabdeVZSfHZ
   ],
 },
  {
-  id: "the-east-palace",
-  title: "The East Palace",
+  id: "spooky-in-love",
+  title: "Spooky in Love",
   year: 2026,
-  genre: ["Action", "Horror", "Supernatural"],
+  genre: ["comedy", "Horror", "Fantasy"],
   description:
-  "description:අද්භූත සිදුවීම් රැසකින් භීතියට පත් වූ රාජ මාලිගාවේ සැඟවුණු රහස් හෙළි කිරීමට, භූත ලෝකය හා මිනිස් ලෝකය අතර ගමන් කළ හැකි රණශූරයෙකු සහ මළවුන්ගේ හඬ ඇසිය හැකි මාලිගා සේවිකාවක් එකතු වේ. ශාප, අද්භූත බලවේග සහ රාජකීය කුමන්ත්‍රණ මැද ඔවුන් සත්‍යය සොයා යන අතර, East Palace තුළ සැඟවුණු අඳුරු අභිරහස් එකින් එක අනාවරණය වීමට පටන් ගනී.",
+  "රාත්‍රිය පුරාම අවතාර දකින හෝටල් උරුමක්කාරියක් වන Cheon Yeo Ri සහ නොවිසඳුණු ඝාතන නඩු හඹායන දක්ෂ නීතිඥ Ma Gang Wook අහඹු ලෙස හමුවෙයි. මියගිය අයගේ ආත්මයන්ගෙන් ලැබෙන ඉඟි ඔස්සේ ඔවුන් එකට අපරාධ රැසක් විමර්ශනය කරන අතර, අද්භූත සිදුවීම්, භයානක රහස් සහ මෘදු ආදර කතාවක් එකට බැඳෙන විශේෂ ගමනක් ආරම්භ වේ.",
   posterUrl: "https://i.ibb.co/jPBYnG1P/the-east-palace-poster-scaled-1-jpeg.jpg",
-  episodeCount: 8,
+  episodeCount: 12,
   featured: true,
   episodes: [
     {
